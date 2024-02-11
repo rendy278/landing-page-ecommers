@@ -662,7 +662,9 @@ body::-webkit-scrollbar-thumb:hover {
   -webkit-border-radius: 20px;
   border-radius: 20px;
 }
-
+.testimonial-banner {
+  object-fit: cover;
+}
 .mobile-navigation-menu {
   background: var(--white);
   position: fixed;
